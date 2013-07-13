@@ -1,0 +1,98 @@
+*SISTEMA DE ARMAS*
+
++ Bomba molotov.
+-Gasolina [1 l.] (Gasolinera)
+-Botella (24/7) 
+-Bandana o pañuelo (Binco)
+-Ensendedor (24/7)
+
++ 9 mm.
+-Molde de partes de 9mm (tienda ilegal ej. mercado negro) 
+-Acero para fundir [1 kg.] (Ferreteria)
+-Tornillos, tuercas y arandelas [50] (Ferreteria)
+-Cargador bacio (ammu nation)
+
++ Mac 10.
+-Molde de partes de Mac 10 (tienda ilegal ej. mercado negro)
+-Acero para fundir [3 kg.] (Ferreteria)
+-Tornillos, tuercas y arandelas [100] (Ferreteria)
+-Cargador bacio (ammu nation)
+
++ Escopeta
+-Molde de partes del mango de la escopeta (tienda ilegal ej. mercado negro)
+-Molde de partes del cañon de la escopeta (tienda ilegal ej. mercado negro)
+-Acero para fundir [5 kg.] (Ferreteria)
+-Tornillos, tuercas y arandelas [100] (Ferreteria)
+-Cargador bacio (ammu nation)
+
++ Navaja
+-Hoja de acero con filo de 10cm (Ferreteria)
+-Mango de madera para navaja (Carpinteria)
+-pegamento (ferreteria)
+
++ Katana
+-Hoja de acera con filo de 80cm (ferreteria)
+-Mango de madera para katana
+-Pegamento (ferreteria)
+
++ Eagle
+-Molde de partes de eagle (tienda ilegal ej. mercado negro) 
+-Acero para fundir [1,5 kg.] (Ferreteria)
+-Tornillos, tuercas y arandelas [100] (Ferreteria)
+-Decoraciones en madera para eagle (carpinteria)
+-Cargador bacio (ammu nation)
+
++ Escopeta Escopeta
+-Molde de partes de la recortada (tienda ilegal ej. mercado negro)
+-Molde molde de los 2 cañones de la recortada (tienda ilegal ej. mercado negro)
+-Acero para fundir [6 kg.] (Ferreteria)
+-Tornillos, tuercas y arandelas [90] (Ferreteria)
+-Cargador doble bacio (ammu nation)
+
++ Spas 10
+
++ Escopeta Escopeta
+-Molde de partes de spas 10 (tienda ilegal ej. mercado negro)
+-Molde de cañoñ de spas 10 (tienda ilegal ej. mercado negro)
+-Acero para fundir [8 kg.] (Ferreteria)
+-Tornillos, tuercas y arandelas [190] (Ferreteria)
+-Cargador doble bacio (ammu nation)
+
++ MP5
+-Molde de partes de MP5 (tienda ilegal ej. mercado negro)
+-Acero para fundir [7 kg.] (Ferreteria)
+-Tornillos, tuercas y arandelas [175] (Ferreteria)
+-Cargador bacio (ammu nation)
+
++ ak-47
+--Molde de partes de ak-47 (tienda ilegal ej. mercado negro)
+-Acero para fundir [7 kg.] (Ferreteria)
+-Mango de madera para ak-47 (Carpinteria)
+-Otras partes de madera de ak-47 (Carpinteria)
+-Tornillos, tuercas y arandelas [150] (Ferreteria)
+-Cargador bacio (ammu nation)
+
++ M4
+-Molde de partes de M4 (tienda ilegal ej. mercado negro)
+-Acero para fundir [9 kg.] (Ferreteria)
+-Tornillos, tuercas y arandelas [200] (Ferreteria)
+-Cargador bacio (ammu nation)
+
++ Sniper
+-Mira telescopica (Ammu nation)
+-Mango de madera de Sniper
+-Acero para fundir [4 kg.] (Ferreteria)
+-Tornillos, tuercas y arandelas [90] (Ferreteria)
+-Cargador bacio
+
++ Tec 9
+-Molde de partes de tec 9 (tienda ilegal ej. mercado negro)
+-Acero para fundir [9 kg.] (Ferreteria)
+-Tornillos, tuercas y arandelas [190] (Ferreteria)
+-Cargador bacio (ammu nation)
+
++ Municion
+-Molde de la bala (Tienda ilegal ej. mercado negro)
+-Plomo [10g]
+-Cobre [10g]
+-Polvora [10g]

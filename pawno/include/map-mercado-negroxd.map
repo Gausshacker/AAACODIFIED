@@ -1,0 +1,13 @@
+<map edf:definitions="editor_main">
+    <ped id="ped (1)" dimension="0" model="0" interior="0" rotZ="0" frozen="false" alpha="255" posX="1543.1322" posY="-1647.25098" posZ="27.90211" rotX="0" rotY="0"></ped>
+    <object id="object (laestormdrain02) (2)" interior="0" collisions="true" alpha="255" doublesided="false" model="5419" scale="1" dimension="0" posX="2078.15625" posY="-1847.70312" posZ="7.76563" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (smashboxpile) (1)" interior="10" alpha="255" doublesided="false" model="1299" scale="1" dimension="0" posX="416.10001" posY="2538.30005" posZ="9.5" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (PROC_RUBBISH_1) (1)" interior="10" alpha="255" doublesided="false" model="2670" scale="1" dimension="0" posX="419.89999" posY="2540.3999" posZ="9.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (1)" interior="10" alpha="255" doublesided="false" model="336" scale="1" dimension="0" posX="422.60001" posY="2537.80005" posZ="9.2" rotX="0" rotY="15" rotZ="0">
+        <object id="object (CJ_WASTEBIN) (1)" interior="10" alpha="255" doublesided="true" model="1347" scale="1" dimension="0" posX="422.39999389648" posY="2538.3200683594" posZ="9.5" rotX="0" rotY="0" rotZ="354"></object>
+    </object>
+    <object id="object (2)" interior="10" alpha="255" doublesided="false" model="346" scale="1" dimension="0" posX="418.79999" posY="2539.6001" posZ="9.78" rotX="90" rotY="0" rotZ="50"></object>
+    <object id="object (3)" interior="10" alpha="255" doublesided="false" model="346" scale="1" dimension="0" posX="416.70001" posY="2543.1001" posZ="9.6" rotX="90" rotY="0" rotZ="49.999"></object>
+    <object id="object (DYN_BOXES) (1)" interior="10" alpha="255" doublesided="false" model="1421" scale="1" dimension="0" posX="417.70001" posY="2535.3999" posZ="9.8" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (DYN_BOXES) (2)" interior="10" alpha="255" doublesided="false" model="1421" scale="1" dimension="0" posX="413.60001" posY="2536.6001" posZ="9.75" rotX="0" rotY="0" rotZ="90"></object>
+</map>
